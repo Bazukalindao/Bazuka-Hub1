@@ -2628,6 +2628,7 @@ W:AddLabel("[+] Sla Hub is HERE!")
 W:AddLabel("[+] Best AutoFarm!")
 W:AddLabel("[+] Up and Growing")
 W:AddLabel("[+] Smooth")
+W:AddLabel("[+] DISCORD: https://discord.gg/ucFuq4qzc4
 
 local Section = W:AddSection({
     Name = "Status"
